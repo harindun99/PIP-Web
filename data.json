@@ -42,9 +42,9 @@
       "symbol": "HNB.X",
       "company": "HATTON NATIONAL BANK PLC",
       "sector": "Banks",
-      "quantity": 0,
+      "quantity": 150,
       "avgBuyPrice": 382.00,
-      "currentPrice": 382.00,
+      "currentPrice": 396.00,
       "logo": "Assets/company-logo/HNB-X.png",
       "marketCap": 44603297970.00,
       "issuedQuantity": 115852722,
@@ -399,6 +399,17 @@
         "grossAmount": 25350.00,
         "commission": 284.02,
         "netAmount": 25634.02,
+        "status": "BUY"
+      }
+    ],
+    "HNB.X": [
+      {
+        "tradeDate": "2026-03-02",
+        "shares": 150,
+        "avgPrice": 382.00,
+        "grossAmount": 57300.00,
+        "commission": 641.76,
+        "netAmount": 57941.76,
         "status": "BUY"
       }
     ],
