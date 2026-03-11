@@ -1,0 +1,493 @@
+{
+  "usdToLkr": 312.45,
+
+  "stocks": [
+    {
+      "symbol": "COMB.X",
+      "company": "COMMERCIAL BANK OF CEYLON PLC",
+      "sector": "Banks",
+      "quantity": 350,
+      "avgBuyPrice": 215.4820,
+      "currentPrice": 204.50,
+      "logo": "Assets/company-logo/COMB-X.png",
+      "marketCap": 19725960003.75,
+      "issuedQuantity": 96341685,
+      "eps": 38.14,
+      "nav": 208.76,
+      "dividendPerShare": 11.00,
+      "peRatio": 5.98,
+      "pbv": 0.98,
+      "dividendYield": 5.61,
+      "roe": 20.34
+    },
+    {
+      "symbol": "SAMP.N",
+      "company": "SAMPATH BANK PLC",
+      "sector": "Banks",
+      "quantity": 150,
+      "avgBuyPrice": 170.6540,
+      "currentPrice": 163.25,
+      "logo": "Assets/company-logo/SAMP-N.png",
+      "marketCap": 188511647170.00,
+      "issuedQuantity": 1172700760,
+      "eps": 29.45,
+      "nav": 171.88,
+      "dividendPerShare": 11.00,
+      "peRatio": 6.14,
+      "pbv": 0.97,
+      "dividendYield": 6.89,
+      "roe": 38.72
+    },
+    {
+      "symbol": "HNB.X",
+      "company": "HATTON NATIONAL BANK PLC",
+      "sector": "Banks",
+      "quantity": 0,
+      "avgBuyPrice": 382.00,
+      "currentPrice": 382.00,
+      "logo": "Assets/company-logo/HNB-X.png",
+      "marketCap": 44603297970.00,
+      "issuedQuantity": 115852722,
+      "eps": 87.60,
+      "nav": 541.20,
+      "dividendPerShare": 22.00,
+      "peRatio": 4.82,
+      "pbv": 0.72,
+      "dividendYield": 5.71,
+      "roe": 19.04
+    },
+    {
+      "symbol": "LOLC.N",
+      "company": "LOLC HOLDINGS PLC",
+      "sector": "Diversified Financials",
+      "quantity": 0,
+      "avgBuyPrice": 548.00,
+      "currentPrice": 548.00,
+      "logo": "Assets/company-logo/LOLC-N.svg"
+    },
+    {
+      "symbol": "LFIN.N",
+      "company": "LB FINANCE PLC",
+      "sector": "Diversified Financials",
+      "quantity": 200,
+      "avgBuyPrice": 168.7250,
+      "currentPrice": 159.75,
+      "logo": "Assets/company-logo/LFIN-N.jpg",
+      "marketCap": 88926170328.00,
+      "issuedQuantity": 554057136,
+      "eps": 17.84,
+      "nav": 110.47,
+      "dividendPerShare": 7.00,
+      "peRatio": 10.23,
+      "pbv": 1.51,
+      "dividendYield": 4.52,
+      "roe": 22.97
+    },
+    {
+      "symbol": "TKYO.X",
+      "company": "TOKYO CEMENT COMPANY (LANKA) PLC",
+      "sector": "Materials",
+      "quantity": 250,
+      "avgBuyPrice": 95.6120,
+      "currentPrice": 89.40,
+      "logo": "Assets/company-logo/TKYO-X.png",
+      "marketCap": 13363663500.00,
+      "issuedQuantity": 147015000,
+      "eps": 8.21,
+      "nav": 73.90,
+      "dividendPerShare": 2.50,
+      "peRatio": 12.1,
+      "pbv": 1.25,
+      "dividendYield": 2.90,
+      "roe": 6.88
+    },
+    {
+      "symbol": "LLUB.N",
+      "company": "CHEVRON LUBRICANTS LANKA PLC",
+      "sector": "Materials",
+      "quantity": 75,
+      "avgBuyPrice": 198.7340,
+      "currentPrice": 187.50,
+      "logo": "Assets/company-logo/LLUB-N.png",
+      "marketCap": 48960000000.00,
+      "issuedQuantity": 240000000,
+      "eps": 17.52,
+      "nav": 37.20,
+      "dividendPerShare": 17.50,
+      "peRatio": 11.74,
+      "pbv": 5.61,
+      "dividendYield": 8.93,
+      "roe": 59.18
+    },
+    {
+      "symbol": "LIOC.N",
+      "company": "LANKA IOC PLC",
+      "sector": "Energy",
+      "quantity": 0,
+      "avgBuyPrice": 153.00,
+      "currentPrice": 153.00,
+      "logo": "Assets/company-logo/LIOC-N.jpg",
+      "marketCap": 75610130110.00,
+      "issuedQuantity": 532465705,
+      "eps": 22.10,
+      "nav": 169.85,
+      "dividendPerShare": 5.50,
+      "peRatio": 7.05,
+      "pbv": 0.91,
+      "dividendYield": 3.68,
+      "roe": 13.8
+    },
+    {
+      "symbol": "HHL.N",
+      "company": "HEMAS HOLDINGS PLC",
+      "sector": "Capital Goods",
+      "quantity": 0,
+      "avgBuyPrice": 34.80,
+      "currentPrice": 34.80,
+      "logo": "Assets/company-logo/HHL-N.png"
+    },
+    {
+      "symbol": "JKH.N",
+      "company": "JOHN KEELLS HOLDINGS PLC",
+      "sector": "Capital Goods",
+      "quantity": 750,
+      "avgBuyPrice": 24.1260,
+      "currentPrice": 22.85,
+      "logo": "Assets/company-logo/JKH-N.svg",
+      "marketCap": 391026140735.10,
+      "issuedQuantity": 17693490531,
+      "eps": 0.91,
+      "nav": 24.63,
+      "dividendPerShare": 0.30,
+      "peRatio": 29.7,
+      "pbv": 0.94,
+      "dividendYield": 1.35,
+      "roe": 2.54
+    },
+    {
+      "symbol": "HAYL.N",
+      "company": "HAYLEYS PLC",
+      "sector": "Capital Goods",
+      "quantity": 0,
+      "avgBuyPrice": 242.75,
+      "currentPrice": 242.75,
+      "logo": "Assets/company-logo/HAYL-N.png"
+    },
+    {
+      "symbol": "ASIR.N",
+      "company": "ASIRI HOSPITAL HOLDINGS PLC",
+      "sector": "Health Care Equipment & Services",
+      "quantity": 0,
+      "avgBuyPrice": 33.40,
+      "currentPrice": 33.40,
+      "logo": "Assets/company-logo/ASIR-N.png"
+    },
+    {
+      "symbol": "SPEN.N",
+      "company": "AITKEN SPENCE PLC",
+      "sector": "Capital Goods",
+      "quantity": 0,
+      "avgBuyPrice": 157.50,
+      "currentPrice": 157.50,
+      "logo": "Assets/company-logo/SPEN-N.jpg"
+    },
+    {
+      "symbol": "AHUN.N",
+      "company": "AITKEN SPENCE HOTEL HOLDINGS PLC",
+      "sector": "Consumer Services",
+      "quantity": 0,
+      "avgBuyPrice": 108.25,
+      "currentPrice": 108.25,
+      "logo": "Assets/company-logo/AHUN-N.webp"
+    },
+    {
+      "symbol": "KHL.N",
+      "company": "JOHN KEELLS HOTELS PLC",
+      "sector": "Consumer Services",
+      "quantity": 0,
+      "avgBuyPrice": 20.90,
+      "currentPrice": 20.90,
+      "logo": "Assets/company-logo/KHL-N.webp"
+    },
+    {
+      "symbol": "MELS.N",
+      "company": "MELSTACORP PLC",
+      "sector": "Food Beverage & Tobacco",
+      "quantity": 300,
+      "avgBuyPrice": 179.3410,
+      "currentPrice": 165.50,
+      "logo": "Assets/company-logo/MELS-N.png",
+      "marketCap": 214433061248.00,
+      "issuedQuantity": 1165397072,
+      "eps": 15.67,
+      "nav": 138.42,
+      "dividendPerShare": 7.00,
+      "peRatio": 11.98,
+      "pbv": 1.27,
+      "dividendYield": 4.05,
+      "roe": 11.92
+    },
+    {
+      "symbol": "DIST.N",
+      "company": "DISTILLERIES COMPANY OF SRI LANKA PLC",
+      "sector": "Food Beverage & Tobacco",
+      "quantity": 50,
+      "avgBuyPrice": 62.4800,
+      "currentPrice": 61.50,
+      "logo": "Assets/company-logo/DIST-N.jpg",
+      "marketCap": 270480000000.00,
+      "issuedQuantity": 4600000000,
+      "eps": 4.01,
+      "nav": 4.38,
+      "dividendPerShare": 3.25,
+      "peRatio": 18.74,
+      "pbv": 13.9,
+      "dividendYield": 5.36,
+      "roe": 962.32
+    },
+    {
+      "symbol": "CTC.N",
+      "company": "CEYLON TOBACCO COMPANY PLC",
+      "sector": "Food Beverage & Tobacco",
+      "quantity": 0,
+      "avgBuyPrice": 1820.00,
+      "currentPrice": 1820.00,
+      "logo": "Assets/company-logo/CTC-N.png",
+      "marketCap": 327910226125.50,
+      "issuedQuantity": 187323751,
+      "eps": 162.30,
+      "nav": 61.45,
+      "dividendPerShare": 162.30,
+      "peRatio": 11.55,
+      "pbv": 30.12,
+      "dividendYield": 9.14,
+      "roe": 962.32
+    }
+  ],
+
+  "crypto": [
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "quantity": 5.812,
+      "avgBuyPrice": 142.30,
+      "currentPrice": 97.84,
+      "logo": "Assets/cryptocurrency-logo/solana.png",
+      "color": "#9945FF"
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "quantity": 10.500,
+      "avgBuyPrice": 1.87,
+      "currentPrice": 1.5210,
+      "logo": "Assets/cryptocurrency-logo/xrp.png",
+      "color": "#00AAE4"
+    }
+  ],
+
+  "fixedDeposits": [
+    {
+      "id": "FD001",
+      "bank": "LB FINANCE PLC",
+      "accountNumber": "1234-5678-9012",
+      "principal": 320000.00,
+      "interestRate": 9.25,
+      "startDate": "2025-08-15",
+      "maturityDate": "2026-08-15",
+      "logo": "Assets/company-logo/LFIN-N.jpg",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "FD002",
+      "bank": "LB FINANCE PLC",
+      "accountNumber": "9876-5432-1011",
+      "principal": 150000.00,
+      "interestRate": 7.8,
+      "startDate": "2026-01-10",
+      "maturityDate": "2026-04-10",
+      "logo": "Assets/company-logo/LFIN-N.jpg",
+      "color": "#3b82f6"
+    }
+  ],
+  "transactions": {
+    "MELS.N": [
+      {
+        "tradeDate": "2026-02-23",
+        "shares": 200,
+        "avgPrice": 177.25,
+        "grossAmount": 35450.00,
+        "commission": 397.04,
+        "netAmount": 35847.04,
+        "status": "BUY"
+      },
+      {
+        "tradeDate": "2026-03-02",
+        "shares": 100,
+        "avgPrice": 183.75,
+        "grossAmount": 18375.00,
+        "commission": 205.80,
+        "netAmount": 18580.80,
+        "status": "BUY"
+      }
+    ],
+    "DIST.N": [
+      {
+        "tradeDate": "2026-03-05",
+        "shares": 30,
+        "avgPrice": 61.80,
+        "grossAmount": 1854.00,
+        "commission": 20.77,
+        "netAmount": 1874.77,
+        "status": "BUY"
+      },
+      {
+        "tradeDate": "2026-03-07",
+        "shares": 20,
+        "avgPrice": 63.10,
+        "grossAmount": 1262.00,
+        "commission": 14.14,
+        "netAmount": 1276.14,
+        "status": "BUY"
+      }
+    ],
+    "JKH.N": [
+      {
+        "tradeDate": "2026-02-10",
+        "shares": 250,
+        "avgPrice": 23.80,
+        "grossAmount": 5950.00,
+        "commission": 66.65,
+        "netAmount": 6016.65,
+        "status": "BUY"
+      },
+      {
+        "tradeDate": "2026-02-18",
+        "shares": 500,
+        "avgPrice": 24.50,
+        "grossAmount": 12250.00,
+        "commission": 137.21,
+        "netAmount": 12387.21,
+        "status": "BUY"
+      }
+    ],
+    "COMB.X": [
+      {
+        "tradeDate": "2026-02-10",
+        "shares": 150,
+        "avgPrice": 212.50,
+        "grossAmount": 31875.00,
+        "commission": 357.00,
+        "netAmount": 32232.00,
+        "status": "BUY"
+      },
+      {
+        "tradeDate": "2026-02-17",
+        "shares": 200,
+        "avgPrice": 217.75,
+        "grossAmount": 43550.00,
+        "commission": 487.76,
+        "netAmount": 44037.76,
+        "status": "BUY"
+      }
+    ],
+    "SAMP.N": [
+      {
+        "tradeDate": "2026-02-26",
+        "shares": 150,
+        "avgPrice": 169.00,
+        "grossAmount": 25350.00,
+        "commission": 284.02,
+        "netAmount": 25634.02,
+        "status": "BUY"
+      }
+    ],
+    "LFIN.N": [
+      {
+        "tradeDate": "2026-02-18",
+        "shares": 120,
+        "avgPrice": 165.50,
+        "grossAmount": 19860.00,
+        "commission": 222.44,
+        "netAmount": 20082.44,
+        "status": "BUY"
+      },
+      {
+        "tradeDate": "2026-02-25",
+        "shares": 50,
+        "avgPrice": 168.00,
+        "grossAmount": 8400.00,
+        "commission": 94.09,
+        "netAmount": 8494.09,
+        "status": "BUY"
+      },
+      {
+        "tradeDate": "2026-03-01",
+        "shares": 30,
+        "avgPrice": 170.25,
+        "grossAmount": 5107.50,
+        "commission": 57.20,
+        "netAmount": 5164.70,
+        "status": "BUY"
+      }
+    ],
+    "TKYO.X": [
+      {
+        "tradeDate": "2026-02-18",
+        "shares": 50,
+        "avgPrice": 92.40,
+        "grossAmount": 4620.00,
+        "commission": 51.76,
+        "netAmount": 4671.76,
+        "status": "BUY"
+      },
+      {
+        "tradeDate": "2026-02-23",
+        "shares": 75,
+        "avgPrice": 94.60,
+        "grossAmount": 7095.00,
+        "commission": 79.47,
+        "netAmount": 7174.47,
+        "status": "BUY"
+      },
+      {
+        "tradeDate": "2026-02-26",
+        "shares": 125,
+        "avgPrice": 97.80,
+        "grossAmount": 12225.00,
+        "commission": 136.92,
+        "netAmount": 12361.92,
+        "status": "BUY"
+      }
+    ],
+    "LLUB.N": [
+      {
+        "tradeDate": "2026-02-10",
+        "shares": 25,
+        "avgPrice": 201.50,
+        "grossAmount": 5037.50,
+        "commission": 56.42,
+        "netAmount": 5093.92,
+        "status": "BUY"
+      },
+      {
+        "tradeDate": "2026-02-26",
+        "shares": 30,
+        "avgPrice": 198.00,
+        "grossAmount": 5940.00,
+        "commission": 66.53,
+        "netAmount": 6006.53,
+        "status": "BUY"
+      },
+      {
+        "tradeDate": "2026-03-03",
+        "shares": 20,
+        "avgPrice": 194.75,
+        "grossAmount": 3895.00,
+        "commission": 43.62,
+        "netAmount": 3938.62,
+        "status": "BUY"
+      }
+    ]
+  }
+}
